@@ -1,0 +1,33 @@
+fastapi
+fastapi-login
+fastapi-users
+fastapi-utils
+uvicorn
+asyncio
+
+#for database
+dnspython
+motor
+mongomock_motor
+
+#aws
+boto3
+
+#for loading environment variables
+python-dotenv
+
+#for email validation
+pydantic
+pydantic[email]
+
+#security
+bcrypt
+passlib[bcrypt]
+fastapi_login
+
+#for testing
+pytest
+requests
+pytest-asyncio
+pytest-cov
+
