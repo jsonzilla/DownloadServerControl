@@ -1,6 +1,5 @@
-# Download Server
-
-This project was generated via [manage-fastapi](https://ycd.github.io/manage-fastapi/)! :tada:
+# Download Server Control
+Control user access to your application or any versioned file/link.
 
 ## License
 
